@@ -1,0 +1,19 @@
+title: Мясное производство
+collapse: false
+arrange:
+    - Pricing.md
+    - Marketing.md
+    - CustomerService.md
+    - MovingProducts.md
+    - Inventory.md
+    - ManufacturePlanning.md
+    - Purchases.md
+    - ManufactureSetting.md
+    - AcctptanceOfRawMaterials.md
+    - PreparationOfRawMaterials.md
+    - Slaughtering.md
+    - Cutting.md
+    - SausageManufacture.md
+    - Injection.md
+    - Kneading.md
+    - ShiftClosing.md

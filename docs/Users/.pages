@@ -1,0 +1,19 @@
+title: Пользователи
+collapse: false
+arrange:
+    - Administrator.md
+    - LaboratoryAssistant.md
+    - MarketingAndSalesPlanning.md
+    - Purchases.md
+    - ShiftMaster.md
+    - SalesManager.md
+    - ManufacturePlanning.md
+    - ReceiverMilk.md
+    - ReceiverMeat.md
+    - MeatManufacture.md
+    - CheeseManufacture.md
+    - TSDUsage.md
+    - WarehouseLogistician.md
+    - Technologist.md
+    - TransportLogistician.md
+    - Economist.md
