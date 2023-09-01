@@ -1,0 +1,22 @@
+title: Сырное производство
+collapse: false
+arrange:
+    - Pricing.md
+    - Marketing.md
+    - CustomerService.md
+    - MovingProducts.md
+    - Inventory.md
+    - ManufacturePlanning.md
+    - Purchases.md
+    - ManufactureSetting.md
+    - AcctptanceOfRawMaterials.md
+    - MilkBatchRelease.md
+    - MilkTransfer.md
+    - Separation.md
+    - Normalization.md
+    - CheeseCooking.md
+    - Salting.md
+    - Drying.md
+    - Maturation.md
+    - PackagingAndLabeling.md
+    - ShiftClosing.md
